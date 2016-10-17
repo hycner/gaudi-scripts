@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: green;
+  color: white;
+  padding: 17px 20px;
+  font-size: 25px;
+  margin-bottom: 75px;
+
+  a,
+  a:hover,
+  a:visited,
+  a:active {
+    color: white;
+  }
+}
